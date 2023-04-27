@@ -1,0 +1,15 @@
+-- l'interpollation
+-- property beiding
+-- liaision va et viens
+-- *ngIf
+-- *ngFor
+-- [ngStyle]
+-- [ngClass]
+--les pip |
+--service
+-- routing (
+-- les observables dans rx js
+-- subject
+-- scribed
+-- promise
+-- formulaire
